@@ -24,6 +24,10 @@ p {
 	font-weight: lighter;
 }
 
+ul {
+	text-align: center;
+}
+
 img {
 	width: 100%;
 }
