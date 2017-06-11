@@ -1,13 +1,11 @@
 body {
-	background-color: #fffdd0;
 	text-align: center;
 	text-decoration: none;
 	background-image: url("images/hero.jpg");
-
 }
 
 h1 {
-	color: #0b0b29
+	color: #FFFFFF
 	font-weight: bold;
 	font-size: 36px;
 	text-align: center;
@@ -15,15 +13,14 @@ h1 {
 }
 
 #slogan {
-	color: #0b0b29;
+	color: #FFFFFF;
 	font-size: 24px;
 	text-align: center;
 }
 
 p {
-	color: #0b0b29;
+	color: #FFFFFF;
 	font-size: 18px;
-	font-weight: lighter;
 }
 
 ul {
