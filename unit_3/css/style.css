@@ -1,7 +1,7 @@
 body {
 	text-align: center;
 	text-decoration: none;
-	background-image: url("images/hero.jpg");
+	background-image: url(hero.jpg);
 }
 
 h1 {
